@@ -15,3 +15,6 @@ mobile, web and backend applications.
 - 🌐 Know more about me: https://ishaanbajaj.com
 - ⚡ Fun fact: Fun facts are not fun!
 
+  
+<img width="799" alt="Screenshot 2024-03-16 at 7 06 50 PM" src="https://github.com/IshaanBajaj20/IshaanBajaj20/assets/42618525/1d189c97-a19f-4cbe-928b-690f758c52e5">
+
