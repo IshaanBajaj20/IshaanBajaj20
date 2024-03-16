@@ -1,4 +1,10 @@
-### Hi there 👋
+# Ishaan Bajaj
+
+I'm a passionate software engineer with a knack for crafting innovative solutions through
+code who has had opportunities to work in a diverse set of domains throughout my career.
+With a passion to solve real-world problems by solving complex data-structures problems,
+I have experience in implementing, optimizing, and maintaining
+mobile, web and backend applications.
 
 <!--
 **IshaanBajaj20/IshaanBajaj20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
