@@ -15,6 +15,19 @@ mobile, web and backend applications.
 - 🌐 Know more about me: https://ishaanbajaj.com
 - ⚡ Fun fact: Fun facts are not fun!
 
-  
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ishaan-bajaj-b413a11a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dev.to/ishaan_bajaj">
+    <img src="https://img.shields.io/badge/DEV-ishaanbajaj12-blue"/>
+  </a>
+  <a href="https://x.com/ishaanbajaj20">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<br>
+</br>
 <img width="799" alt="Screenshot 2024-03-16 at 7 06 50 PM" src="https://github.com/IshaanBajaj20/IshaanBajaj20/assets/42618525/1d189c97-a19f-4cbe-928b-690f758c52e5">
 
