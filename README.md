@@ -7,7 +7,7 @@ I have experience in implementing, optimizing, and maintaining
 mobile, web and backend applications.
 
 
-- 🔭 I’m currently working on Senchou - ESports Scoring App (20k downloads) (https://play.google.com/store/apps/details?id=com.ned.ned)
+- 🔭 I’m currently working on Senchou - ESports Scoring App (22k downloads) (https://play.google.com/store/apps/details?id=com.ned.ned)
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 👯 I’m looking to collaborate on BackEnd Development, Mobile Development.
 - 💬 Ask me about DSA, Competitive Coding, Android/iOS, OOPs.
