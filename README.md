@@ -15,4 +15,4 @@ Software engineer. I build full-stack and AI products, from the mobile app down 
 - **Frontend & mobile:** React / Next.js · React Native · Flutter · Android
 - **Cloud & infra:** AWS · GCP · Docker · Kubernetes · Helm · Terraform · GitHub Actions · Prometheus · Grafana
 
-[ishaanbajaj.com](https://ishaanbajaj.com) · [LinkedIn](https://www.linkedin.com/in/ishaan-bajaj-b413a11a5/) · [X](https://x.com/ishaanbajaj20) · ishaan.bajaj@nedgaming.com
+[ishaanbajaj.me](https://ishaanbajaj.me) · [LinkedIn](https://www.linkedin.com/in/ishaan-bajaj-b413a11a5/) · [X](https://x.com/ishaanbajaj20) · ishaan.bajaj@nedgaming.com
